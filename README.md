@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-I'm **Mesanjeetk**, a passionate developer dedicated to building innovative solutions and contributing to the open-source community. Here you'll find my projects, contributions, and a glimpse into my coding journey.
+I'm **Mesanjeetk**, a passionate full-stack developer dedicated to building innovative solutions and contributing to the open-source community. Here you'll find my projects, contributions, and a glimpse into my coding journey.
 
 ---
 
@@ -53,9 +53,9 @@ I'm **Mesanjeetk**, a passionate developer dedicated to building innovative solu
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesanjeetk&theme=tokyonight&show_icons=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesanjeetk&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesanjeetk&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesanjeetk&theme=tokyonight&layout=compact&langs_count=6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mesanjeetk&theme=tokyonight)
 
