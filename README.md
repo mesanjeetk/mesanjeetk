@@ -2,6 +2,8 @@
 
 I'm **Mesanjeetk**, a passionate full-stack developer dedicated to building innovative solutions and contributing to the open-source community. Here you'll find my projects, contributions, and a glimpse into my coding journey.
 
+![Profile views](https://komarev.com/ghpvc/?username=mesanjeetk&color=blue)
+
 ---
 
 ## 🚀 About Me
@@ -96,9 +98,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ## 🤝 How to Reach Me
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [linkedin.com/in/mesanjeetk](https://linkedin.com/in/mesanjeetk)
-- 🐦 **Twitter**: [@mesanjeetk](https://twitter.com/mesanjeetk)
+- 📧 **Email**: mesanjeetk1432@gmail.com
 - 🌐 **Website**: [mesanjeetk.com](https://mesanjeetk.vercel.app)
 
 ---
